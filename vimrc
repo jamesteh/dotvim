@@ -6,6 +6,8 @@ filetype plugin indent on
 set splitbelow
 set splitright
 
+set rtp+=~/.vim/bundle/tabnine
+
 "split navigations
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
